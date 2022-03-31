@@ -1,0 +1,8 @@
+body {
+    background: url("background.jpg");
+    background-size: cover;
+    font-family: 'Rock 3D', cursive;
+    color: white;
+    font-size: 120px;
+    text-align: center;
+}
